@@ -11,6 +11,7 @@ OUTPUT :
 
 <img width="709" alt="Screenshot 2024-07-26 at 6 29 25 PM" src="https://github.com/user-attachments/assets/47424389-e95e-4ab6-bf31-644d304639c1">
 
+
 Coding question 2 : SAMPLE INPUT AND OUTPUT
 
 INPUT : 
